@@ -8,8 +8,6 @@ from dash import Dash, html, dcc, callback, Output, Input, dash_table, State
 from dash.exceptions import PreventUpdate
 import plotly.express as px
 import pandas as pd
-import base64
-import io
 from datetime import datetime, date
 import dash_ag_grid
 
