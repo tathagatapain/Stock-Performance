@@ -17,6 +17,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 # Create Dash app
 app = Dash(__name__, external_stylesheets=external_stylesheets, suppress_callback_exceptions=True)
+server = app.server
 
 # Initialize global variable to store uploaded data
 uploaded_data = None
