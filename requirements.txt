@@ -1,8 +1,6 @@
 dash
 pandas
-plotly.express
-base64
-io
+plotly
 datetime
 dash_ag_grid
 gunicorn
