@@ -1,6 +1,8 @@
 dash
 pandas
 plotly
+pybase64
+Python-IO
 datetime
 dash_ag_grid
 gunicorn
