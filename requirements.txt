@@ -1,0 +1,8 @@
+dash
+pandas
+dash.exceptions
+base64
+io
+datetime
+dash_ag_grid
+gunicorn
