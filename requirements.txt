@@ -1,6 +1,6 @@
 dash
 pandas
-dash.exceptions
+plotly.express
 base64
 io
 datetime
